@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+girlsvenv
+db.sqlite3
+.DS_Store
